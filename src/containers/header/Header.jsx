@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Header.css"
+import illustrationImage from "../../assets/illustration.png"
 
 const Header = () => {
   return (
@@ -20,7 +21,7 @@ const Header = () => {
       </div>
       {/* right image */}
       <div className='gpt3__header-image'>
-          <img src='illustration.png' alt='illustrations' />
+          <img src={illustrationImage} alt='illustrations' />
       </div>
     </div>
   )
