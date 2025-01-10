@@ -44,7 +44,7 @@ const Footer = () => {
 
       </div>
       <div className='gpt3__footer-copyright'>
-        <p>c, 2021 GPT-3. All rights reserved</p>
+        <p>c, 2024 Ayodele Olaleye. All rights reserved</p>
       </div>
     </div>
   )
