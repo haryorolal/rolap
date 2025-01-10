@@ -20,7 +20,7 @@ const Header = () => {
       </div>
       {/* right image */}
       <div className='gpt3__header-image'>
-          <img src='illustration.png' alt='illustration' />
+          <img src='illustration.png' alt='illustrations' />
       </div>
     </div>
   )
